@@ -3750,7 +3750,7 @@
       {
         "title": "The Sea",
         "tmdb_id": 561320,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -35967,7 +35967,7 @@
       {
         "title": "The Stairs",
         "tmdb_id": 1110185,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -51838,7 +51838,7 @@
       {
         "title": "The Bridge",
         "tmdb_id": 683451,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -63094,7 +63094,7 @@
       {
         "title": "Snow",
         "tmdb_id": 995290,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -63109,7 +63109,7 @@
       {
         "title": "Timepiece",
         "tmdb_id": 655925,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -68392,7 +68392,7 @@
       {
         "title": "Duo",
         "tmdb_id": 981902,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -77693,7 +77693,7 @@
       {
         "title": "Hunger",
         "tmdb_id": 1110862,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -96518,7 +96518,7 @@
       {
         "title": "That's Life",
         "tmdb_id": 1161288,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -107979,7 +107979,7 @@
       {
         "title": "George Wallace: One Night Stand",
         "tmdb_id": 847456,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -109239,7 +109239,8 @@
       {
         "title": "Heavenly Creatures",
         "tmdb_id": 1024,
-        "imdb_id": "tt0110005"
+        "imdb_id": "tt0110005",
+        "tmdb_person_id": 108
       }
     ]
   },
@@ -114941,7 +114942,7 @@
       {
         "title": "Rusalka (1909)",
         "tmdb_id": 1262731,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -116467,7 +116468,7 @@
       {
         "title": "Tango",
         "tmdb_id": 919317,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -116617,7 +116618,7 @@
       {
         "title": "The Canterbury Tales",
         "tmdb_id": 1117670,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -116737,7 +116738,7 @@
       {
         "title": "Victor",
         "tmdb_id": 435364,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -120979,7 +120980,8 @@
       {
         "title": "The Lord of the Rings: The Fellowship of the Ring",
         "tmdb_id": 120,
-        "imdb_id": "tt0120737"
+        "imdb_id": "tt0120737",
+        "tmdb_person_id": 108
       }
     ]
   },
@@ -121073,7 +121075,8 @@
       {
         "title": "The Lord of the Rings: The Fellowship of the Ring",
         "tmdb_id": 120,
-        "imdb_id": "tt0120737"
+        "imdb_id": "tt0120737",
+        "tmdb_person_id": 108
       }
     ]
   },
@@ -123041,7 +123044,7 @@
       {
         "title": "HERO",
         "tmdb_id": 782713,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -124346,7 +124349,8 @@
       {
         "title": "The Lord of the Rings: The Return of the King",
         "tmdb_id": 122,
-        "imdb_id": "tt0167260"
+        "imdb_id": "tt0167260",
+        "tmdb_person_id": 108
       }
     ]
   },
@@ -124743,7 +124747,7 @@
       {
         "title": "Evil",
         "tmdb_id": 574492,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -156003,7 +156007,7 @@
       {
         "title": "The Present",
         "tmdb_id": 708049,
-        "imdb_id": ""
+        "imdb_id": null
       }
     ]
   },
@@ -162298,6 +162302,479 @@
         "title": "Wicked",
         "tmdb_id": 402431,
         "imdb_id": "tt1262426"
+      }
+    ]
+  },
+  {
+    "category": "Best Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Adrien Brody"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist",
+        "tmdb_id": 549509,
+        "imdb_id": "tt8999762"
+      }
+    ]
+  },
+  {
+    "category": "Best Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Timothée Chalamet"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown",
+        "tmdb_id": 661539,
+        "imdb_id": "tt11563598"
+      }
+    ]
+  },
+  {
+    "category": "Best Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Colman Domingo"
+    ],
+    "movies": [
+      {
+        "title": "Sing Sing",
+        "tmdb_id": 1155828,
+        "imdb_id": "tt28479262"
+      }
+    ]
+  },
+  {
+    "category": "Best Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Ralph Fiennes"
+    ],
+    "movies": [
+      {
+        "title": "Conclave",
+        "tmdb_id": 974576,
+        "imdb_id": "tt20215234"
+      }
+    ]
+  },
+  {
+    "category": "Best Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Sebastian Stan"
+    ],
+    "movies": [
+      {
+        "title": "The Apprentice",
+        "tmdb_id": 1182047,
+        "imdb_id": "tt8368368"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Yura Borisov"
+    ],
+    "movies": [
+      {
+        "title": "Anora",
+        "tmdb_id": 1064213,
+        "imdb_id": "tt28607951"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Kieran Culkin"
+    ],
+    "movies": [
+      {
+        "title": "A Real Pain",
+        "tmdb_id": 1013850,
+        "imdb_id": "tt21823606"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Edward Norton"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown",
+        "tmdb_id": 661539,
+        "imdb_id": "tt11563598"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Guy Pearce"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist",
+        "tmdb_id": 549509,
+        "imdb_id": "tt8999762"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Jeremy Strong"
+    ],
+    "movies": [
+      {
+        "title": "The Apprentice",
+        "tmdb_id": 1182047,
+        "imdb_id": "tt8368368"
+      }
+    ]
+  },
+  {
+    "category": "Best Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Cynthia Erivo"
+    ],
+    "movies": [
+      {
+        "title": "Wicked",
+        "tmdb_id": 402431,
+        "imdb_id": "tt1262426"
+      }
+    ]
+  },
+  {
+    "category": "Best Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Karla Sofía Gascón"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez",
+        "tmdb_id": 974950,
+        "imdb_id": "tt20221436"
+      }
+    ]
+  },
+  {
+    "category": "Best Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Mikey Madison"
+    ],
+    "movies": [
+      {
+        "title": "Anora",
+        "tmdb_id": 1064213,
+        "imdb_id": "tt28607951"
+      }
+    ]
+  },
+  {
+    "category": "Best Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Demi Moore"
+    ],
+    "movies": [
+      {
+        "title": "The Substance",
+        "tmdb_id": 933260,
+        "imdb_id": "tt17526714"
+      }
+    ]
+  },
+  {
+    "category": "Best Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Fernanda Torres"
+    ],
+    "movies": [
+      {
+        "title": "I'm Still Here",
+        "tmdb_id": 1000837,
+        "imdb_id": "tt14961016"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Monica Barbaro"
+    ],
+    "movies": [
+      {
+        "title": "A Complete Unknown",
+        "tmdb_id": 661539,
+        "imdb_id": "tt11563598"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Ariana Grande"
+    ],
+    "movies": [
+      {
+        "title": "Wicked",
+        "tmdb_id": 402431,
+        "imdb_id": "tt1262426"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Felicity Jones"
+    ],
+    "movies": [
+      {
+        "title": "The Brutalist",
+        "tmdb_id": 549509,
+        "imdb_id": "tt8999762"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Isabella Rossellini"
+    ],
+    "movies": [
+      {
+        "title": "Conclave",
+        "tmdb_id": 974576,
+        "imdb_id": "tt20215234"
+      }
+    ]
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Zoe Saldaña"
+    ],
+    "movies": [
+      {
+        "title": "Emilia Pérez",
+        "tmdb_id": 974950,
+        "imdb_id": "tt20221436"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Flow",
+      "Gints Zilbalodis",
+      "Matīss Kaža",
+      "Ron Dyens",
+      "Gregory Zalcman"
+    ],
+    "movies": [
+      {
+        "title": "Flow",
+        "tmdb_id": 823219,
+        "imdb_id": "tt4772188"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Inside Out 2",
+      "Kelsey Mann",
+      "Mark Nielsen"
+    ],
+    "movies": [
+      {
+        "title": "Inside Out 2",
+        "tmdb_id": 1022789,
+        "imdb_id": "tt22022452"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Memoir of a Snail",
+      "Adam Elliot",
+      "Liz Kearney"
+    ],
+    "movies": [
+      {
+        "title": "Memoir of a Snail",
+        "tmdb_id": 1064486,
+        "imdb_id": "tt23770030"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Wallace & Gromit: Vengeance Most Fowl",
+      "Nick Park",
+      "Merlin Crossingham",
+      "Richard Beek"
+    ],
+    "movies": [
+      {
+        "title": "Wallace & Gromit: Vengeance Most Fowl",
+        "tmdb_id": 929204,
+        "imdb_id": "tt17163970"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "The Wild Robot",
+      "Chris Sanders",
+      "Jeff Hermann"
+    ],
+    "movies": [
+      {
+        "title": "The Wild Robot",
+        "tmdb_id": 1184918,
+        "imdb_id": "tt29623480"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Beautiful Men",
+      "Nicolas Keppens",
+      "Brecht Van Elslande"
+    ],
+    "movies": [
+      {
+        "title": "Beautiful Men",
+        "tmdb_id": 1157132,
+        "imdb_id": "tt30835281"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "In The Shadow Of The Cypress",
+      "Shirin Sohani",
+      "Hossein Molayemi"
+    ],
+    "movies": [
+      {
+        "title": "In The Shadow Of The Cypress",
+        "tmdb_id": 1156619,
+        "imdb_id": "tt28768883"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Magic Candies",
+      "Daisuke Nishio",
+      "Takashi Washio"
+    ],
+    "movies": [
+      {
+        "title": "Magic Candies",
+        "tmdb_id": 1249728,
+        "imdb_id": "tt31888603"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Wander To Wonder",
+      "Nina Gantz",
+      "Stienette Bosklopper"
+    ],
+    "movies": [
+      {
+        "title": "Wander To Wonder",
+        "tmdb_id": 1156605,
+        "imdb_id": "tt28768679"
+      }
+    ]
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Yuck!",
+      "Loïc Espuche",
+      "Juliette Marquet"
+    ],
+    "movies": [
+      {
+        "title": "Yuck!",
+        "tmdb_id": 1220646,
+        "imdb_id": "tt28356173"
       }
     ]
   }
