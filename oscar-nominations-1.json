@@ -183991,7 +183991,7 @@
   {
     "category": "Best Picture",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Anora"
     ],
@@ -184171,7 +184171,7 @@
   {
     "category": "Best Actor",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Adrien Brody"
     ],
@@ -184279,7 +184279,7 @@
   {
     "category": "Best Supporting Actor",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Kieran Culkin"
     ],
@@ -184387,7 +184387,7 @@
   {
     "category": "Best Actress",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Mikey Madison"
     ],
@@ -184513,7 +184513,7 @@
   {
     "category": "Best Supporting Actress",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Zoe Saldaña"
     ],
@@ -184531,7 +184531,7 @@
   {
     "category": "Best Animated Feature",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Flow"
     ],
@@ -184636,7 +184636,7 @@
   {
     "category": "Best Animated Short",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "In The Shadow Of The Cypress"
     ],
@@ -184696,7 +184696,7 @@
   {
     "category": "Best Cinematography",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Lol Crawley"
     ],
@@ -184831,7 +184831,7 @@
   {
     "category": "Best Costume Design",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Paul Tazewell"
     ],
@@ -184846,7 +184846,7 @@
   {
     "category": "Best Director",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Sean Baker"
     ],
@@ -184936,7 +184936,7 @@
   {
     "category": "Best Documentary Feature",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Basel Adra, Rachel Szor, Hamdan Ballal and Yuval Abraham"
     ],
@@ -185056,7 +185056,7 @@
   {
     "category": "Best Documentary Short",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Molly O’Brien and Lisa Remington"
     ],
@@ -185071,7 +185071,7 @@
   {
     "category": "Best Film Editing",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Sean Baker"
     ],
@@ -185146,7 +185146,7 @@
   {
     "category": "Best International Feature Film",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "I’m Still Here"
     ],
@@ -185266,7 +185266,7 @@
   {
     "category": "Best Makeup and Hairstyling",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Pierre-Olivier Persin, Stéphanie Guillon, Marilyne Scarselli"
     ],
@@ -185294,9 +185294,9 @@
     ]
   },
   {
-    "category": "Best Score",
+    "category": "Best Music (Original Score)",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Daniel Blumberg"
     ],
@@ -185309,7 +185309,7 @@
     ]
   },
   {
-    "category": "Best Score",
+    "category": "Best Music (Original Score)",
     "year": "2024",
     "won": false,
     "nominees": [
@@ -185324,7 +185324,7 @@
     ]
   },
   {
-    "category": "Best Score",
+    "category": "Best Music (Original Score)",
     "year": "2024",
     "won": false,
     "nominees": [
@@ -185339,7 +185339,7 @@
     ]
   },
   {
-    "category": "Best Score",
+    "category": "Best Music (Original Score)",
     "year": "2024",
     "won": false,
     "nominees": [
@@ -185354,7 +185354,7 @@
     ]
   },
   {
-    "category": "Best Score",
+    "category": "Best Music (Original Score)",
     "year": "2024",
     "won": false,
     "nominees": [
@@ -185371,7 +185371,7 @@
   {
     "category": "Best Original Song",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "El Mal – Clément Ducol, Camille, Jacques Audiard"
     ],
@@ -185506,7 +185506,7 @@
   {
     "category": "Best Production Design",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Nathan Crowley (Production Design), Lee Sandales (Set Decoration)"
     ],
@@ -185515,6 +185515,81 @@
         "title": "Wicked",
         "tmdb_id": 402431,
         "imdb_id": "tt1262426"
+      }
+    ]
+  },
+  {
+    "category": "Best Live Action Short",
+    "year": "2024",
+    "won": true,
+    "nominees": [
+      "Victoria Warmerdam and Trent"
+    ],
+    "movies": [
+      {
+        "title": "I'm Not a Robot",
+        "tmdb_id": 1178556,
+        "imdb_id": "tt19837932"
+      }
+    ]
+  },
+  {
+    "category": "Best Live Action Short",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Sam Cutler-Kreutz and David Cutler-Kreutz"
+    ],
+    "movies": [
+      {
+        "title": "A Lien",
+        "tmdb_id": 1118941,
+        "imdb_id": "tt27655666"
+      }
+    ]
+  },
+  {
+    "category": "Best Live Action Short",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Adam J. Graves and Suchitra Mattai"
+    ],
+    "movies": [
+      {
+        "title": "Anuja",
+        "tmdb_id": 1337997,
+        "imdb_id": "tt27654431"
+      }
+    ]
+  },
+  {
+    "category": "Best Live Action Short",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Cindy Lee and Darwin Shaw"
+    ],
+    "movies": [
+      {
+        "title": "The Last Ranger",
+        "tmdb_id": 1316292,
+        "imdb_id": "tt15802124"
+      }
+    ]
+  },
+  {
+    "category": "Best Live Action Short",
+    "year": "2024",
+    "won": false,
+    "nominees": [
+      "Nebojša Slijepčević and Danijel Pek"
+    ],
+    "movies": [
+      {
+        "title": "The Man Who Could Not Remain Silent",
+        "tmdb_id": 1279229,
+        "imdb_id": "tt20519854"
       }
     ]
   },
@@ -185536,7 +185611,7 @@
   {
     "category": "Best Sound",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Gareth John, Richard King, Ron Bartlett, Doug Hemphill"
     ],
@@ -185626,7 +185701,7 @@
   {
     "category": "Best Visual Effects",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Paul Lambert, Stephen James, Rhys Salcombe, Gerd Nefzer"
     ],
@@ -185686,7 +185761,7 @@
   {
     "category": "Best Adapted Screenplay",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Peter Straughan"
     ],
@@ -185746,7 +185821,7 @@
   {
     "category": "Best Original Screenplay",
     "year": "2024",
-    "won": false,
+    "won": true,
     "nominees": [
       "Sean Baker"
     ],
