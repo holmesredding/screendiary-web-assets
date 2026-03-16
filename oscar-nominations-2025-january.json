@@ -185950,7 +185950,7 @@
   {
     "category": "Best Actor",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Michael B. Jordan"
     ],
@@ -186040,7 +186040,7 @@
   {
     "category": "Best Supporting Actor",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Sean Penn"
     ],
@@ -186076,7 +186076,7 @@
     {
     "category": "Best Actress",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Jessie Buckley"
     ],
@@ -186202,7 +186202,7 @@
   {
     "category": "Best Supporting Actress",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Amy Madigan"
     ],
@@ -186292,7 +186292,7 @@
   {
     "category": "Best Animated Feature",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "KPop Demon Hunters"
     ],
@@ -186376,7 +186376,7 @@
   {
     "category": "Best Animated Short",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "The Girl Who Cried Pearls"
     ],
@@ -186457,7 +186457,7 @@
   {
     "category": "Best Casting",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Cassandra Kulukundis"
     ],
@@ -186556,7 +186556,7 @@
   {
     "category": "Best Cinematography",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Autumn Durald Arkapaw"
     ],
@@ -186601,7 +186601,7 @@
   {
     "category": "Best Costume Design",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Kate Hawley"
     ],
@@ -186691,7 +186691,7 @@
   {
     "category": "Best Director",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Paul Thomas Anderson"
     ],
@@ -186781,9 +186781,9 @@
   {
     "category": "Best Documentary Feature",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
-      "Nominees to be determined"
+      "David Borenstein, Pavel Talankin, Helle Faber and Alžběta Karásková"
     ],
     "movies": [
       {
@@ -186811,7 +186811,7 @@
     {
     "category": "Best Documentary Short",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Joshua Seftel and Conall Jones"
     ],
@@ -186916,7 +186916,7 @@
   {
     "category": "Best Film Editing",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Andy Jurgensen"
     ],
@@ -186991,7 +186991,7 @@
   {
     "category": "Best International Feature Film",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Sentimental Value"
     ],
@@ -187081,7 +187081,7 @@
   {
     "category": "Best Live Action Short",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Sam A. Davis and Jack Piatt"
     ],
@@ -187096,7 +187096,7 @@
   {
     "category": "Best Live Action Short",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Alexandre Singh and Natalie Musteata"
     ],
@@ -187111,7 +187111,7 @@
     {
     "category": "Best Makeup and Hairstyling",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Mike Hill, Jordan Samuel and Cliona Furey"
     ],
@@ -187246,7 +187246,7 @@
   {
     "category": "Best Music (Original Score)",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Ludwig Goransson"
     ],
@@ -187276,7 +187276,7 @@
   {
     "category": "Best Original Song",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Golden – EJAE, Mark Sonnenblick, Joong Gyu Kwak, Yu Han Lee, Hee Dong Nam, Jeong Hoon Seon, Teddy Park"
     ],
@@ -187426,7 +187426,7 @@
   {
     "category": "Best Picture",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "One Battle after Another"
     ],
@@ -187516,7 +187516,7 @@
     {
     "category": "Best Production Design",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Tamara Deverell",
       "Shane Vieau"
@@ -187611,7 +187611,7 @@
     {
     "category": "Best Sound",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Gareth John, Al Nelson, Gwendolyn Yates Whittle, Gary A. Rizzo and Juan Peralta"
     ],
@@ -187686,7 +187686,7 @@
     {
     "category": "Best Visual Effects",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett"
     ],
@@ -187806,7 +187806,7 @@
   {
     "category": "Best Adapted Screenplay",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Paul Thomas Anderson"
     ],
@@ -187896,7 +187896,7 @@
   {
     "category": "Best Original Screenplay",
     "year": "2025",
-    "won": false,
+    "won": true,
     "nominees": [
       "Ryan Coogler"
     ],
